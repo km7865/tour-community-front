@@ -1,2 +1,3 @@
 # tour-community-front
 여행 커뮤니티 앱 프론트
+https://youtu.be/Uc-2sbCyB8o
